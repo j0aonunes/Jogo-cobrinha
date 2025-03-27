@@ -9,6 +9,9 @@ let snake = [{ x: 200, y: 200 }];
 let direction = "RIGHT";
 let food = generateFood();
 
+
+
+
 // Função para desenhar a cobrinha
 function drawSnake() {
     ctx.fillStyle = "lime";

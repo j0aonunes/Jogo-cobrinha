@@ -17,3 +17,9 @@ canvas {
     border: 2px solid white;
     background-color: black;
 }
+
+canvas {
+    border: 3px solid white; /* Aumenta a borda */
+    border-radius: 10px; /* Opcional: deixa os cantos arredondados */
+    background-color: rgb(0, 0, 0);
+}
